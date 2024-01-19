@@ -10,7 +10,7 @@
     Tumour detection with RNA
   </p>
 </div>
-![icon](https://github.com/jojiku/RNA-cancer/assets/56271473/10da9942-044b-4bdb-be81-10e37d260294)
+![icon](https://github.com/jojiku/RNA-cancer/assets/56271473/4d671b18-fd7f-490c-a099-b12b0c37f534)
 
  <ol>
 
