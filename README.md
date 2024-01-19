@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 <!-- PROJECT LOGO -->
-
+![image](https://github.com/jojiku/RNA-cancer/assets/56271473/2baf6740-c3dd-44d1-8fff-7e6b3444b65c)
 <br />
 <div align="center">
 
