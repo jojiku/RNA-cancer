@@ -9,6 +9,7 @@
   <p align="center">
     Tumour detection with RNA
   </p>
+  
 </div>
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -17,24 +18,12 @@
     <li>
       <a href="#updates">Updates</a>
     </li>
-     <li>
-      <a href="#preprocessing">preprocessing</a>
-    </li>
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#works-cited">Works Cited</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
