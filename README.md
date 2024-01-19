@@ -10,8 +10,9 @@
     Tumour detection with RNA
   </p>
 </div>
+![icon](https://github.com/jojiku/RNA-cancer/assets/56271473/10da9942-044b-4bdb-be81-10e37d260294)
 
-
+ <ol>
 
 **Non -invasive diagnosis of tumors** means checking the presence of cancer without a biopsy (which is the most accurate method for determining tumors). 
 
