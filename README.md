@@ -20,9 +20,9 @@
     </li>
     <li>
       <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
+    </li>
+    <li>
+      <a href="Work cited">About The Project</a>
     </li>
   </ol>
 </details>
@@ -49,6 +49,8 @@ Basic methods for dimensionality reduction were done
 
 Of course, **it is a good idea to constantly use biopsy**, but if the patient is in serious condition, then any surgical intervention can simply kill him. In such cases, you can use an MRI, but it is **expensive** and may not be sensitive enough to detect very small tumors. 
 
+<!-- WORK CITED -->
+## Authors
 **A relatively new method based on RNA sequencing will be presented as a project**. As a result of the work, it is planned to create a convenient service for doctors who can load RNA data of their patients, and the model will make a prediction about whether a person is sick with cancer or not
 
 <img src="![icon](https://github.com/jojiku/RNA-cancer/assets/56271473/06231c5e-d59f-4657-92a5-19f944caa136)
