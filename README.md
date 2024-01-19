@@ -1,4 +1,17 @@
-# RNA-cancer
+<div id="top"></div>
+
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+
+<h3 align="center">Non-invasive diagnosis of brain tumor</h3>
+
+  <p align="center">
+    Tumour detection with RNA
+  </p>
+</div>
+
+
 
 **Non -invasive diagnosis of tumors** means checking the presence of cancer without a biopsy (which is the most accurate method for determining tumors). 
 
