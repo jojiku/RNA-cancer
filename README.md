@@ -22,7 +22,7 @@
       <a href="#about-the-project">About The Project</a>
     </li>
     <li>
-      <a href="Work cited">About The Project</a>
+      <a href="Work cited">Work cited</a>
     </li>
   </ol>
 </details>
